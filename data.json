@@ -1,0 +1,50 @@
+{
+    "films": [
+        {
+            "name": "Harry Potter and the Philosopher's Stone",
+            "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+            "rating": 6,
+            "genre": "Fantasy",
+            "actors": [
+                "Daniel Radcliffe",
+                "Rupert Grint",
+                "Emma Watson",
+                "John Cleese",
+                "Robbie Coltrane",
+                "Warwick Davis",
+                "Richard Griffiths",
+                "Richard Harris",
+                "Ian Hart",
+                "John Hurt",
+                "Alan Rickman",
+                "Fiona Shaw",
+                "Maggie Smith",
+                "Julie Walters"
+            ],
+            "poster": "https://cdn.27.ua/sc--media--prod/default/35/ee/12/35ee1264-c99c-48c5-b426-f978fe48e34d.jpg"
+        },
+        {
+            "name": "Garfield: The Movie",
+            "description": "фільм",
+            "rating": 9,
+            "genre": "Fantasy",
+            "actors": [
+                "Breckin Meyer",
+                "Jennifer Love Hewitt",
+                "Stephen Tobolowsky",
+                "Bill Murray"
+            ],
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDhaEMSwhkYuuKkQkhCTGR3ZjwVeom1KVrSA&s"
+        },
+        {
+            "name": "Hcc",
+            "description": "Vv bu",
+            "rating": 6.0,
+            "genre": "Gft",
+            "actors": [
+                "Hhj"
+            ],
+            "poster": "Vvh"
+        }
+    ]
+}
